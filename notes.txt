@@ -1,0 +1,5 @@
+8ballcv.py > finds lines in the frame
+8ballcv2.py > filters only the white color 
+8ballbot.py > finds the lines on the masked image amd displays on frame
+
+
